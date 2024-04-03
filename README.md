@@ -1,2 +1,4 @@
 # internprojects
- Projects Taught Will Be here
+ Projects That I Taught Will Be here
+# Installation
+`pip install -r requirments.txt`
