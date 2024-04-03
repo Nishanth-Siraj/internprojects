@@ -1,7 +1,7 @@
 # InternProjects
  Projects That I Taught Will Be Here
 # Project
-1. Role-Based Permission ([ReadMe](https://github.com/Nishanth-Siraj/internprojects/tree/main/Permissions-RESTApi))
+1. Role-Based Permission ([Link](https://github.com/Nishanth-Siraj/internprojects/tree/main/Permissions-RESTApi))
 # Installation
 ## Virtual Environment
 `python -m venv venv`
